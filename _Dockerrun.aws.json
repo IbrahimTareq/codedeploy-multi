@@ -11,7 +11,7 @@
   "containerDefinitions": [
     {
       "name": "app",
-      "image": "111122223333.dkr.ecr.eu-west-1.amazonaws.com/test-repo:latest",
+      "image": "565222073165.dkr.ecr.ap-southeast-2.amazonaws.com/test-repo:latest",
       "essential": true,
       "memory": 128
     },
